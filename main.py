@@ -1,3 +1,5 @@
+
+# COpyright by Mahendra Ribadiya
 from dotenv import load_dotenv
 from src.graph import OutReachAutomation, LeadData, CompanyData
 
